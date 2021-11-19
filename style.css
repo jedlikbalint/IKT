@@ -1,4 +1,32 @@
 .iphone{
-max-width: 2490px ; 
+max-width: 200px ;
+float: left; 
    background-color: antiquewhite;
+   text-align: center;
+   margin: 15px;
+   padding: 10px;
+   
+}
+.menü{
+    background-color: rgb(59, 59, 59);
+    height: 40px;
+    text-align: center;
+}
+.menü a{
+    text-decoration: none;
+    color: white;
+}
+.iphone img{
+    max-width: 180px;
+}
+.iphone a{
+    text-decoration: none;
+    color: white;
+}
+.iphone span{
+    max-width: 20px;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 2px;
 }
