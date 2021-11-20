@@ -3,8 +3,9 @@ max-width: 200px ;
 float: left; 
    background-color: antiquewhite;
    text-align: center;
-   margin: 15px;
+   margin: 55px;
    padding: 10px;
+   height: 600px;
    
 }
 .menü{
@@ -28,5 +29,31 @@ float: left;
     background-color: blue;
     border-radius: 5px;
     padding: 2px;
-    margin: 2px;
+    margin: 5px;
+}
+#iphone13{
+width: 300px;
+margin: 0 520px;
+
+}
+p{
+    margin: 0 auto;
+}
+.pro {
+    text-align: center;
+}
+.pro span{
+    max-width: 20px;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 5px;
+}
+.pro a{
+    text-decoration: none;
+    color: white;
+}
+#többinfo{
+    text-decoration: none;
+    color: blue;
 }
