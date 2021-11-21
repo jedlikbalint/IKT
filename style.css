@@ -1,66 +1,202 @@
-.iphone{
-max-width: 200px ;
-float: left; 
-   background-color: antiquewhite;
-   text-align: center;
-   margin: 55px;
-   padding: 10px;
-   height: 600px;
-   
-}
-.menü{
-    background-color: rgb(59, 59, 59);
-    height: 40px;
-    text-align: center;
-}
-.menü a{
-    text-decoration: none;
-    color: white;
-}
-.iphone img{
-    max-width: 180px;
-}
-.iphone a{
-    text-decoration: none;
-    color: white;
-}
-.iphone span{
-    max-width: 20px;
-    background-color: blue;
-    border-radius: 5px;
-    padding: 2px;
-    margin: 5px;
-}
-#iphone13{
-width: 300px;
-margin: 0 520px;
 
+body{
+    margin: 0%;
 }
-p{
-    margin: 0 auto;
+
+
+.főoldal{
+
+    background-color: black;
+    text-align: center;
+    padding: 20px; 
+    position: fixed;
+    display: flex;
+    width: 100%;
 }
-.pro {
+
+.főoldal a {
+    color: white;
+    text-decoration: none;
     text-align: center;
 }
-.pro span{
-    max-width: 20px;
-    background-color: blue;
-    border-radius: 5px;
-    padding: 2px;
-    margin: 5px;
+
+.főoldal span{
+    text-align: center;
+    margin: auto;
+    
 }
-.pro a{
-    text-decoration: none;
-    color: white;
+
+
+span:hover{
+    text-decoration: underline;
 }
-#többinfo{
-    text-decoration: none;
-    color: blue;
+
+.camera-szoveg{
+    margin: auto;
+    width: 70%;
+    text-align: center;
+    font-size: 40px;
+    margin-top: 30px;
 }
-.mac{
+
+.h1-iphone{
+    text-align: center;
+    
+}
+
+.hatter{
+    background-color: lightgray;
+    margin: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+
+.hatter2{
+    background-color: lightgray;
+    margin-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 113px;
+    width: 49%;
+    text-align: center;
     float: left;
-    background-color: antiquewhite;
-    padding: 10px;
-    margin: 50px;
-    height: 550px;
 }
+
+.hatter3{
+    background-color: lightgray;
+    margin-right: 10px;
+    padding-top: 30px;
+    width: 49%;
+    text-align: center;
+    float: right;
+}
+
+#sierra{
+    border-radius: 50px; 
+    height: 587px;
+    margin-left: 150px;
+}
+
+
+#macbook-pro{
+    width: 500px;
+    border-radius: 20px;
+}
+
+
+#ipad-mini{
+    width: 500px;
+}
+
+
+#iphone-13pro{
+    
+}
+
+#apple-watch{
+    width: 500px;
+    border-radius: 20px;
+}
+
+.hatter4{
+    background-color: lightgray;
+    text-align: center;
+    margin-top: 488px;
+    margin-right: 10px;
+    margin-left: 10px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.hatter5{
+    background-color: lightgray;
+    text-align: center;
+    padding-top: 30px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    padding-bottom: 30px;
+}
+
+
+#airpods{
+    width: 600px;
+    border-radius: 20px;
+}
+
+.elérhetőségek{
+    background-color:lightgray;
+    border-top: solid 3px;
+}
+
+#logo{
+    border-radius: 1000px;
+    width: 40px;
+}
+
+.iphone{
+    max-width: 200px ;
+    float: left; 
+       background-color: antiquewhite;
+       text-align: center;
+       margin: 55px;
+       padding: 10px;
+       height: 600px;
+       
+    }
+    .menü{
+        background-color: rgb(59, 59, 59);
+        height: 40px;
+        text-align: center;
+    }
+    .menü a{
+        text-decoration: none;
+        color: white;
+    }
+    .iphone img{
+        max-width: 180px;
+    }
+    .iphone a{
+        text-decoration: none;
+        color: white;
+    }
+    .iphone span{
+        max-width: 20px;
+        background-color: blue;
+        border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+    }
+    #iphone13{
+    width: 300px;
+    margin: 0 520px;
+    
+    }
+    p{
+        margin: 0 auto;
+    }
+    .pro {
+        text-align: center;
+    }
+    .pro span{
+        max-width: 20px;
+        background-color: blue;
+        border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+    }
+    .pro a{
+        text-decoration: none;
+        color: white;
+    }
+    #többinfo{
+        text-decoration: none;
+        color: blue;
+    }
+    .mac{
+        float: left;
+        background-color: antiquewhite;
+        padding: 10px;
+        margin: 50px;
+        height: 550px;
+    }
