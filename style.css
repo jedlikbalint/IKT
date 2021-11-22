@@ -137,6 +137,15 @@ span:hover{
     width: 40px;
 }
 
+.ipad{
+
+}
+#ipad-pro{
+    border-radius: 20px;
+    
+}
+
+
 .iphone{
     max-width: 200px ;
     float: left; 
