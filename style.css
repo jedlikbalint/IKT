@@ -39,7 +39,7 @@ span:hover{
     width: 70%;
     text-align: center;
     font-size: 40px;
-    margin-top: 30px;
+    margin-top: 100px;
 }
 
 .h1-iphone{
@@ -137,6 +137,15 @@ span:hover{
     width: 40px;
 }
 
+.ipad-also{
+
+}
+#ipad-pro{
+    border-radius: 20px;
+
+}
+
+
 .iphone{
     max-width: 200px ;
     float: left; 
@@ -173,8 +182,9 @@ span:hover{
     #iphone13{
     width: 300px;
     margin: 0 520px;
-    
     }
+
+
     p{
         margin: 0 auto;
     }
@@ -203,6 +213,11 @@ span:hover{
         margin: 50px;
         height: 550px;
     }
+    
+    .camera{
+        margin-bottom: 100px;
+        width:1436px;
+    }    
 
 
 @keyframes fo-load{
@@ -217,4 +232,7 @@ span:hover{
 }
 
 }
-    
+.footer{
+    float: right;
+    clear: both;
+}
