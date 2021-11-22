@@ -14,7 +14,6 @@ body{
     width: 100%;
     animation: fo-load 0.5s ease-in;
     animation-fill-mode: forwards;
-
 }
 
 .főoldal a {
@@ -143,6 +142,7 @@ span:hover{
 }
 #ipad-pro{
     border-radius: 20px;
+    margin-top: 30px;
 }
 
 
@@ -232,6 +232,9 @@ span:hover{
 }
 
 }
+
+
+
 .footer{
     float: right;
     clear: both;
