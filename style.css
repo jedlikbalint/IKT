@@ -5,7 +5,6 @@ body{
 
 
 .főoldal{
-
     background-color: black;
     text-align: center;
     padding: 20px; 
@@ -92,7 +91,8 @@ span:hover{
 
 
 #iphone-13pro{
-    
+  margin-top: 50px;
+
 }
 
 #apple-watch{
@@ -148,15 +148,28 @@ span:hover{
 
 
 .iphone{
-    max-width: 200px ;
-    float: left; 
-       background-color: antiquewhite;
-       text-align: center;
-       margin: 55px;
-       padding: 10px;
-       height: 600px;
-       
-    }
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+ }
+
+.iphone img{
+    border-radius: 20px;
+}
+
+
+ #iphone-13-pro{
+     margin-left: 500px;
+ }
+
+
+
     .menü{
         background-color: rgb(59, 59, 59);
         height: 40px;
@@ -191,6 +204,7 @@ span:hover{
     }
     .pro {
         text-align: center;
+        margin-top: 80px;
     }
     .pro span{
         max-width: 20px;
@@ -220,6 +234,7 @@ span:hover{
         width:1436px;
     }    
 
+
     
 @keyframes fo-load{
 
@@ -239,4 +254,7 @@ span:hover{
 .footer{
     float: right;
     clear: both;
+    background-color: lightgray;
+    border-top: 3px solid black;
+    line-height: 150%;    
 }
