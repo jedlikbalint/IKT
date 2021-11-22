@@ -12,6 +12,9 @@ body{
     position: fixed;
     display: flex;
     width: 100%;
+    animation: fo-load 0.5s ease-in;
+    animation-fill-mode: forwards;
+
 }
 
 .főoldal a {
@@ -200,3 +203,18 @@ span:hover{
         margin: 50px;
         height: 550px;
     }
+
+
+@keyframes fo-load{
+
+
+    0%{
+        transform: translateY(-100%);
+    }
+
+100%{
+    transform: translateY(0);
+}
+
+}
+    
