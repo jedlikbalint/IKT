@@ -157,10 +157,126 @@ span:hover{
     border: solid 3px black;
     margin-top: 40px;
     margin-bottom: 60px;
+    margin-left: 150px;
  }
+
+
+.iphone2{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+
+.iphone3{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.iphone4{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-left: 0px;
+}
+
+
+.ipad{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: 150px;
+}
+
+.ipad2{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+
+.ipad3{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+
+.ipad4{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-left: 0px;
+}
+
+
+.ipad2 img{
+    width: 200px;
+    border-radius: 20px;
+}
+
+.ipad3 img{
+    width: 200px;
+    border-radius: 20px;
+}
+
+.ipad4 img{
+    width: 200px;
+    border-radius: 20px;
+}
 
 .iphone img{
     border-radius: 20px;
+}
+
+.iphone4 img{
+    border-radius: 20px;
+    height: 180px;
 }
 
 
