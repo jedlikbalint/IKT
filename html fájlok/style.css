@@ -191,13 +191,12 @@ span:hover{
     float: left;
     background-color: lightgray;
     border-radius: 20px;
-    margin-right: 80px;
     text-align: center;
     border: solid 3px black;
     margin-top: 40px;
     margin-bottom: 60px;
     margin-left: auto;
-    margin-left: 0px;
+    
 }
 
 
