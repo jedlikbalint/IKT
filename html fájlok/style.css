@@ -244,7 +244,6 @@ span:hover{
     float: left;
     background-color: lightgray;
     border-radius: 20px;
-    margin-right: 80px;
     text-align: center;
     border: solid 3px black;
     margin-top: 40px;
@@ -282,6 +281,66 @@ span:hover{
  #iphone-13-pro{
      margin-left: 500px;
  }
+
+.macbook{
+    max-width: 220px;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: 300px;
+}
+
+
+
+.macbook2{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+
+.macbook3{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: auto;
+    
+}
+
+
+.macbook img{
+    width: 200px;
+    border-radius: 5px;
+}
+
+
+.macbook2 img{
+    width: 200px;
+    border-radius: 5px;
+}
+
+
+.macbook3 img{
+    width: 200px;
+    border-radius: 5px;
+}
+
 
 
 
