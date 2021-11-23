@@ -367,6 +367,39 @@ span:hover{
         padding: 2px;
         margin: 5px;
     }
+    .iphone2 a{
+        text-decoration: none;
+        color: white;
+    }
+    .iphone2 span{
+        max-width: 20px;
+        background-color: blue;
+        border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+    }
+    .iphone3 a{
+        text-decoration: none;
+        color: white;
+    }
+    .iphone3 span{
+        max-width: 20px;
+        background-color: blue;
+        border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+    }
+    .iphone4 a{
+        text-decoration: none;
+        color: white;
+    }
+    .iphone4 span{
+        max-width: 20px;
+        background-color: blue;
+        border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+    }
     #iphone13{
     width: 300px;
     margin: 30px 520px;
