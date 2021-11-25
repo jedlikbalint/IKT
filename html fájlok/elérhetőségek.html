@@ -8,15 +8,48 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <div>
+    <div class="főoldal">
+        <span>
+            <a href="index.html"><img id="logo" src="képek/apple-logo.png"  alt=""></a>
+        </span>
+        <span>
+            <a href="Hírek.html">Hírek</a>
+        </span>
+        <span>
+            <a href="Iphone.html">iPhone</a>
+        </span>
+
+        <span>
+            <a href="Ipad.html">iPad</a>
+        </span>
+
+        <span>
+            <a href="mac.html">Mac</a>
+        </span>
+
+        <span>
+            <a href="applewatch.html">Apple Watch</a>
+        </span>
+        <span>
+            <a href="airpods.html">AirPods</a>
+        </span>
+
+    </div>
+
+<br>
+    <div id="contakt">
         <h1>
             Lépjen velünk kapcsolatba 
         </h1>
+        <div class="email">
         <p>e-mail címe:</p> <input type='email'>
         <p>üzenete :</p> <textarea cols=40 rows=4></textarea>
-        <h2>Amennyiben hibát szeretne bejelenteni akkor az alábbi adotokra is szükségünk lesz</h2>
+        <p><input type='submit'></p>
+    </div>
+        <h2>Amennyiben hibát szeretne bejelenteni eszközével kapcsolatban, akkor az alábbi adotokra is szükségünk lesz</h2>
+        <div class="email">
         <p>Milyen típusú eszköze van</p>
-        <select>
+        <p><select>
             <option>---Válassz!--- </option>
             <option>Iphone 13 pro</option>
             <option>Iphone 13</option>
@@ -27,10 +60,12 @@
             <option>Apple Watch</option>
             <option> Airpods</option>
         </select>
+    </p>
         <p>Vásárlás dátuma :</p> <input type='date'>
-        <p>Telefonszáma :</p><input type='number'>
+        <p>Telefonszáma :</p><input type='text'>
         <br>
-        <input type='submit'>
+        <p><input type='submit'></p>
+    </div>
     </div>
     
 </body>
