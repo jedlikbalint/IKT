@@ -137,9 +137,7 @@ span:hover{
 
 }
 
-.ipad-also{
 
-}
 #ipad-pro{
     border-radius: 20px;
     margin-top: 50px;
@@ -157,16 +155,190 @@ span:hover{
     border: solid 3px black;
     margin-top: 40px;
     margin-bottom: 60px;
+    margin-left: 150px;
  }
+
+
+.iphone2{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+
+.iphone3{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+.iphone4{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: auto;
+    
+}
+
+
+.ipad{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: 150px;
+}
+
+.ipad2{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+
+.ipad3{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+
+.ipad4{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: auto;
+    margin-left: 0px;
+}
+
+
+.ipad2 img{
+    width: 200px;
+    border-radius: 20px;
+}
+
+.ipad3 img{
+    width: 200px;
+    border-radius: 20px;
+}
+
+.ipad4 img{
+    width: 200px;
+    border-radius: 20px;
+}
 
 .iphone img{
     border-radius: 20px;
+}
+
+.iphone4 img{
+    border-radius: 20px;
+    height: 180px;
 }
 
 
  #iphone-13-pro{
      margin-left: 500px;
  }
+
+.macbook{
+    max-width: 220px;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: 300px;
+}
+
+
+
+.macbook2{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+}
+
+
+.macbook3{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: auto;
+    
+}
+
+
+.macbook img{
+    width: 200px;
+    border-radius: 5px;
+}
+
+
+.macbook2 img{
+    width: 200px;
+    border-radius: 5px;
+}
+
+
+.macbook3 img{
+    width: 200px;
+    border-radius: 5px;
+}
+
 
 
 
@@ -187,6 +359,39 @@ span:hover{
         color: white;
     }
     .iphone span{
+        max-width: 20px;
+        background-color: blue;
+        border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+    }
+    .iphone2 a{
+        text-decoration: none;
+        color: white;
+    }
+    .iphone2 span{
+        max-width: 20px;
+        background-color: blue;
+        border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+    }
+    .iphone3 a{
+        text-decoration: none;
+        color: white;
+    }
+    .iphone3 span{
+        max-width: 20px;
+        background-color: blue;
+        border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+    }
+    .iphone4 a{
+        text-decoration: none;
+        color: white;
+    }
+    .iphone4 span{
         max-width: 20px;
         background-color: blue;
         border-radius: 5px;
@@ -258,4 +463,8 @@ span:hover{
     background-color: lightgray;
     border-top: 3px solid black;
     line-height: 150%;    
+}
+
+.airpodsˇ{
+    margin-top: 50px;
 }
