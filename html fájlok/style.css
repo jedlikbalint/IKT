@@ -50,6 +50,7 @@ span:hover{
     margin: 10px;
     padding-top: 30px;
     padding-bottom: 30px;
+    
 }
 
 
@@ -103,7 +104,7 @@ span:hover{
 .hatter4{
     background-color: lightgray;
     text-align: center;
-    margin-top: 488px;
+    margin-top: 610px;
     margin-right: 10px;
     margin-left: 10px;
     padding-top: 30px;
@@ -153,7 +154,7 @@ span:hover{
     border: solid 3px black;
     margin-top: 40px;
     margin-bottom: 60px;
-    margin-left: 150px;
+    margin-left: 380px;
  }
 
 
@@ -206,9 +207,40 @@ span:hover{
     border: solid 3px black;
     margin-top: 40px;
     margin-bottom: 60px;
-    margin-left: 150px;
+    margin-left: 380px;
 }
-
+.ipad a{
+    color: white;
+    background-color: blue;
+   text-decoration: none;
+    border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+}
+.ipad2 a{
+    color: white;
+    background-color: blue;
+   text-decoration: none;
+    border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+}
+.ipad3 a{
+    color: white;
+    background-color: blue;
+   text-decoration: none;
+    border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+}
+.ipad4 a{
+    color: white;
+    background-color: blue;
+   text-decoration: none;
+    border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+}
 .ipad2{
     max-width: 220px ;
     float: left;
@@ -288,10 +320,33 @@ span:hover{
     border: solid 3px black;
     margin-top: 40px;
     margin-bottom: 60px;
-    margin-left: 300px;
+    margin-left: 535px;
 }
 
-
+.macbook a{
+    color: white;
+    background-color: blue;
+   text-decoration: none;
+    border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+}
+.macbook2 a{
+    color: white;
+    background-color: blue;
+   text-decoration: none;
+    border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+}
+.macbook3 a{
+    color: white;
+    background-color: blue;
+   text-decoration: none;
+    border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+}
 
 .macbook2{
     max-width: 220px ;
@@ -318,6 +373,93 @@ span:hover{
     margin-left: auto;
     
 }
+
+
+
+.apple-watch{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: 500px;
+    padding: 10px;
+}
+
+.apple-watch a{
+    color: white;
+    background-color: blue;
+   text-decoration: none;
+    border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+}
+.apple-watch2 a{
+    color: white;
+    background-color: blue;
+   text-decoration: none;
+    border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+}
+.apple-watch3 a{
+    color: white;
+    background-color: blue;
+   text-decoration: none;
+    border-radius: 5px;
+        padding: 2px;
+        margin: 5px;
+}
+
+
+.apple-watch2{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    padding: 10px;
+}
+
+
+.apple-watch3{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    padding: 10px;
+
+}
+
+.apple-watch3 img{
+    width: 200px;
+    border-radius: 20px;
+}
+
+.apple-watch2 img{
+    width: 200px;
+    border-radius: 20px;
+}
+
+.apple-watch img{
+    width: 200px;
+    border-radius: 20px;
+}
+
+
 
 
 .macbook img{
