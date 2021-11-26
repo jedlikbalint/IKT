@@ -279,7 +279,10 @@ span:hover{
     margin-left: auto;
     margin-left: 0px;
 }
-
+.ipad img{
+    width: 200px;
+    border-radius: 20px;  
+}
 
 .ipad2 img{
     width: 200px;
@@ -654,3 +657,13 @@ h1,h2{
     margin: 10px;
 }
     
+#térkép{
+    margin-left:  500px;
+    border-radius: 20px;
+    
+}
+
+#cimek{
+    float: right;
+    margin-right: 500px;
+}
