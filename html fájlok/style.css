@@ -660,10 +660,11 @@ h1,h2{
 #térkép{
     margin-left:  500px;
     border-radius: 20px;
+    margin-bottom: 20px;
     
 }
 
 #cimek{
     float: right;
-    margin-right: 500px;
+    margin-right: 600px;
 }
