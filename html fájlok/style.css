@@ -668,3 +668,106 @@ h1,h2{
     float: right;
     margin-right: 600px;
 }
+
+
+
+.keret{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: 500px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+
+.keret2{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
+
+.keret3{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    padding-right: 30px;
+    padding-left: 30px;
+
+}
+
+.keret img{
+    width: 180px;
+    border-radius: 20px;
+}
+
+.keret2 img{
+    width: 180px;
+    border-radius: 20px;
+}
+
+.keret3 img{
+    width: 165px;
+    border-radius: 20px;
+}
+
+.keret span{
+    max-width: 20px;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 5px;
+}
+
+.keret2 span{
+    max-width: 20px;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 5px;
+}
+
+.keret3 span{
+    max-width: 20px;
+    background-color: blue;
+    border-radius: 5px;
+    padding: 2px;
+    margin: 5px;
+
+}
+
+.keret a{
+    color: white;
+   text-decoration: none;
+}
+
+.keret2 a{
+    color: white;
+    text-decoration: none;
+}
+
+.keret3 a{
+    color: white;
+    text-decoration: none;
+}
