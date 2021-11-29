@@ -668,6 +668,21 @@ h1,h2{
     float: right;
     margin-right: 600px;
 }
+.keret{
+    max-width: 220px ;
+    float: left;
+    background-color: lightgray;
+    border-radius: 20px;
+    margin-right: 80px;
+    text-align: center;
+    border: solid 3px black;
+    margin-top: 40px;
+    margin-bottom: 60px;
+    margin-left: 500px;
+    padding-right: 10px;
+    padding-left: 10px;
+
+}
 
 .keret2{
     max-width: 220px ;
@@ -753,4 +768,7 @@ h1,h2{
     color: white;
     text-decoration: none;
 
+}
+#fel{
+    margin-left: 850px;
 }
