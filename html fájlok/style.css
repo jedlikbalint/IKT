@@ -605,7 +605,8 @@ span:hover{
     clear: both;
     background-color: lightgray;
     border-top: 3px solid black;
-    line-height: 150%;    
+    line-height: 150%;  
+    text-align: justify;  
 }
 
 
@@ -778,4 +779,3 @@ h1,h2{
     color: white;
     
 }
-
